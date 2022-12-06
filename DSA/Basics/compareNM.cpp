@@ -1,3 +1,4 @@
+// GFG : if-else (Decision Making)
 #include <iostream>
 #include <string>
 using namespace std;
@@ -19,5 +20,7 @@ int main(){
 
     cout << result;
 
-    system("pause > 0");
+    // system("pause > 0");
 }
+
+// Output : lesser
