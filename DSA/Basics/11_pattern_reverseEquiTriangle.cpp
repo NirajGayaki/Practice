@@ -11,7 +11,6 @@ void reverseEquiTriangle(int n){
     }
 }
 
-
 // Driver Code
 int main(){
 
@@ -22,5 +21,14 @@ int main(){
     // Function Calling
     reverseEquiTriangle(n);
 
-    system("pause > 0");
+    // system("pause > 0");
 }
+
+// Input: 5
+
+// Output:
+// *********
+//  *******
+//   *****
+//    ***
+//     *
