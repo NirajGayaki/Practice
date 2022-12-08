@@ -1,3 +1,4 @@
+// GFG : Pattern 5 : Reverse Triangle of Stars
 #include <iostream>
 using namespace std;
 
@@ -21,3 +22,11 @@ int main(){
 
     // system("pause > 0");
 }
+
+// Input: 5
+// Output:
+// * * * * *
+// * * * * 
+// * * * 
+// * *  
+// * 
