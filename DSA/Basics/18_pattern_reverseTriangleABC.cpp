@@ -25,7 +25,7 @@ int main(){
     // system("pause > 0");
 }
 
-
+ 
 // Input: 5
 // Output:
 // ABCDE
