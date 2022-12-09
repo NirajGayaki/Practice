@@ -23,7 +23,7 @@ int main(){
     // Function Calling
     patternTriangle_01(n);
 
-    system("pause > 0");
+    // system("pause > 0");
 }
 
 // Input: 5
